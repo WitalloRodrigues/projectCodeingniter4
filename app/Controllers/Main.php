@@ -10,6 +10,7 @@ class Main extends controller
     {
       $db = \Config\Database::connect();
       $resultado = $db->query("SELECT * FROM cliente")->getResultObject();
+      
       $db->close();
 
 
