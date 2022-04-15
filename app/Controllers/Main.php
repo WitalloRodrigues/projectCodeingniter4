@@ -1,14 +1,21 @@
-<?php
+<?php namespace App\Controllers;
 
-namespace App\Controllers;
+use App\Libraries\Loja\Venda;
 use CodeIgniter\Controller;
+
 class Main extends controller
 {
+
     public function index()
     {
-      $data['frase'] = "esta é a frase do controlador";
-      echo view('templates/html_header',$data);
-      echo view('pagina1');
-      echo view('templates/html_footer');
+      $db = \Config\Database::connect();
+      $resultado = $db->query("SELECT * FROM cliente")->getResultObject();
+      $db->close();
+
+
+      echo "<pre>";
+      print_r($resultado);
+
     }
+
 }

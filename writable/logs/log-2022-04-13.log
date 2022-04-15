@@ -1,0 +1,156 @@
+CRITICAL - 2022-04-13 10:18:13 --> Call to undefined function App\Controllers\now()
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:29:32 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:30:40 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:30:40 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:30:41 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:30:41 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:30:41 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:30:41 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:30:41 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:30:41 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:31:17 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:32:17 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:32:17 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:32:18 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:32:18 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:35:47 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:35:48 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:35:48 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:36:14 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:36:25 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:38:07 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:38:08 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:40:24 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:40:25 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:40:25 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-13 10:40:25 --> Class 'Venda' not found
+#0 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
