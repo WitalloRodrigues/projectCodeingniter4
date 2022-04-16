@@ -35,7 +35,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'loja_de_cd',
+        'database' => 'todo_list',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,

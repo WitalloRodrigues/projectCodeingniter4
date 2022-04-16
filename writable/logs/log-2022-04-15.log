@@ -89,3 +89,225 @@ CRITICAL - 2022-04-15 13:14:21 --> You have an error in your SQL syntax; check t
 #6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
 #8 {main}
+CRITICAL - 2022-04-15 17:21:46 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\wamp64\www\projectCodeingniter4\system\View\View.php(210): include()
+#1 C:\wamp64\www\projectCodeingniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\projectCodeingniter4\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(11): view('home')
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-15 17:22:02 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\wamp64\www\projectCodeingniter4\system\View\View.php(210): include()
+#1 C:\wamp64\www\projectCodeingniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\projectCodeingniter4\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(11): view('home')
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-15 17:22:42 --> Call to undefined method CodeIgniter\View\View::extends()
+#0 C:\wamp64\www\projectCodeingniter4\system\View\View.php(210): include()
+#1 C:\wamp64\www\projectCodeingniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\wamp64\www\projectCodeingniter4\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(11): view('home')
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-15 18:26:23 --> Undefined property: stdClass::$job
+#0 C:\wamp64\www\projectCodeingniter4\app\Views\home.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\p...', 30, Array)
+#1 C:\wamp64\www\projectCodeingniter4\system\View\View.php(210): include('C:\\wamp64\\www\\p...')
+#2 C:\wamp64\www\projectCodeingniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\projectCodeingniter4\system\Common.php(1089): CodeIgniter\View\View->render('home', Array, true)
+#4 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(12): view('home', Array)
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->index()
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-15 18:36:14 --> Undefined variable: jobs
+#0 C:\wamp64\www\projectCodeingniter4\app\Views\new_job.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\wamp64\\www\\p...', 15, Array)
+#1 C:\wamp64\www\projectCodeingniter4\system\View\View.php(210): include('C:\\wamp64\\www\\p...')
+#2 C:\wamp64\www\projectCodeingniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\projectCodeingniter4\system\Common.php(1089): CodeIgniter\View\View->render('new_job', Array, true)
+#4 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(18): view('new_job')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->new_job()
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-15 18:37:38 --> syntax error, unexpected 'endif' (T_ENDIF), expecting end of file
+#0 C:\wamp64\www\projectCodeingniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\wamp64\www\projectCodeingniter4\system\Common.php(1089): CodeIgniter\View\View->render('new_job', Array, true)
+#2 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(18): view('new_job')
+#3 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->new_job()
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-15 19:18:01 --> Unknown column 'job' in 'field list'
+CRITICAL - 2022-04-15 19:18:01 --> Unknown column 'job' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    insert in...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    insert in...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    insert in...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(30): CodeIgniter\Database\BaseConnection->query('\r\n    insert in...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->new_jobs_submit()
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 19:18:51 --> Unknown column 'job' in 'field list'
+CRITICAL - 2022-04-15 19:18:51 --> Unknown column 'job' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    insert in...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    insert in...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    insert in...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(29): CodeIgniter\Database\BaseConnection->query('\r\n    insert in...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->new_jobs_submit()
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 19:19:39 --> Unknown column 'job' in 'field list'
+CRITICAL - 2022-04-15 19:19:39 --> Unknown column 'job' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    insert in...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    insert in...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    insert in...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(30): CodeIgniter\Database\BaseConnection->query('\r\n    insert in...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->new_jobs_submit()
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 19:20:11 --> Unknown column 'job' in 'field list'
+CRITICAL - 2022-04-15 19:20:11 --> Unknown column 'job' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    insert in...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    insert in...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    insert in...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(29): CodeIgniter\Database\BaseConnection->query('\r\n    insert in...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->new_jobs_submit()
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 19:22:22 --> Unknown column 'job' in 'field list'
+CRITICAL - 2022-04-15 19:22:22 --> Unknown column 'job' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    INSERT IN...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    INSERT IN...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    INSERT IN...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(29): CodeIgniter\Database\BaseConnection->query('\r\n    INSERT IN...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->new_jobs_submit()
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 19:59:17 --> Unknown column 'datatime_finished' in 'field list'
+CRITICAL - 2022-04-15 19:59:17 --> Unknown column 'datatime_finished' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    UPDATE jo...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    UPDATE jo...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    UPDATE jo...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(42): CodeIgniter\Database\BaseConnection->query('\r\n    UPDATE jo...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->job_done('2')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 19:59:42 --> Unknown column 'datatime_finish' in 'field list'
+CRITICAL - 2022-04-15 19:59:42 --> Unknown column 'datatime_finish' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    UPDATE jo...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    UPDATE jo...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    UPDATE jo...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(42): CodeIgniter\Database\BaseConnection->query('\r\n    UPDATE jo...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->job_done('2')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 19:59:44 --> Unknown column 'datatime_finish' in 'field list'
+CRITICAL - 2022-04-15 19:59:44 --> Unknown column 'datatime_finish' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    UPDATE jo...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    UPDATE jo...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    UPDATE jo...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(42): CodeIgniter\Database\BaseConnection->query('\r\n    UPDATE jo...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->job_done('2')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 20:02:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_job = '5'' at line 4
+CRITICAL - 2022-04-15 20:02:32 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_job = '5'' at line 4
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    UPDATE jo...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    UPDATE jo...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    UPDATE jo...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(42): CodeIgniter\Database\BaseConnection->query('\r\n    UPDATE jo...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->job_done('5')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 20:02:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_job = '5'' at line 4
+CRITICAL - 2022-04-15 20:02:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_job = '5'' at line 4
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    UPDATE jo...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    UPDATE jo...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    UPDATE jo...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(42): CodeIgniter\Database\BaseConnection->query('\r\n    UPDATE jo...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->job_done('5')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 20:02:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_job = '5'' at line 4
+CRITICAL - 2022-04-15 20:02:58 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_job = '5'' at line 4
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    UPDATE jo...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    UPDATE jo...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    UPDATE jo...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(42): CodeIgniter\Database\BaseConnection->query('\r\n    UPDATE jo...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->job_done('5')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 20:03:17 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_job = '5'' at line 3
+CRITICAL - 2022-04-15 20:03:17 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_job = '5'' at line 3
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    UPDATE jo...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    UPDATE jo...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    UPDATE jo...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(42): CodeIgniter\Database\BaseConnection->query('\r\n    UPDATE jo...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->job_done('5')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 20:03:41 --> Unknown column 'datetime_update' in 'field list'
+CRITICAL - 2022-04-15 20:03:41 --> Unknown column 'datetime_update' in 'field list'
+#0 C:\wamp64\www\projectCodeingniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('\r\n    UPDATE jo...', 0)
+#1 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('\r\n    UPDATE jo...')
+#2 C:\wamp64\www\projectCodeingniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n    UPDATE jo...')
+#3 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(42): CodeIgniter\Database\BaseConnection->query('\r\n    UPDATE jo...', Array)
+#4 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->job_done('5')
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-15 20:21:30 --> Argument 2 passed to view() must be of the type array, object given, called in C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php on line 60
+#0 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(60): view('edit_job', Object(stdClass))
+#1 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->edit_job('9')
+#2 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#3 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 20:26:37 --> Undefined property: stdClass::$job
+#0 C:\wamp64\www\projectCodeingniter4\app\Views\edit_job.php(24): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\p...', 24, Array)
+#1 C:\wamp64\www\projectCodeingniter4\system\View\View.php(210): include('C:\\wamp64\\www\\p...')
+#2 C:\wamp64\www\projectCodeingniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\wamp64\www\projectCodeingniter4\system\Common.php(1089): CodeIgniter\View\View->render('edit_job', Array, true)
+#4 C:\wamp64\www\projectCodeingniter4\app\Controllers\Main.php(62): view('edit_job', Array)
+#5 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(832): App\Controllers\Main->edit_job('9')
+#6 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+#7 C:\wamp64\www\projectCodeingniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\wamp64\www\projectCodeingniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
